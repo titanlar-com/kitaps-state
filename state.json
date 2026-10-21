@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-21T21:47:57.120Z",
+  "updatedAt": "2026-10-21T21:57:52.169Z",
   "books": {
     "innovators": {
       "updatedAt": "2026-10-21T21:42:57.661Z",
@@ -130,6 +130,50 @@
       },
       "stamps": {
         "states": "2026-10-21T21:46:10.456Z"
+      }
+    },
+    "ilprincipe": {
+      "updatedAt": "2026-10-21T21:55:52.167Z",
+      "value": {
+        "states": [
+          "alindi"
+        ]
+      },
+      "stamps": {
+        "states": "2026-10-21T21:55:52.167Z"
+      }
+    },
+    "toyotaproductionsystem": {
+      "updatedAt": "2026-10-21T21:56:13.457Z",
+      "value": {
+        "states": [
+          "alindi"
+        ]
+      },
+      "stamps": {
+        "states": "2026-10-21T21:56:13.457Z"
+      }
+    },
+    "atomichabits": {
+      "updatedAt": "2026-10-21T21:56:38.807Z",
+      "value": {
+        "states": [
+          "alindi"
+        ]
+      },
+      "stamps": {
+        "states": "2026-10-21T21:56:38.807Z"
+      }
+    },
+    "thisismarketing": {
+      "updatedAt": "2026-10-21T21:57:17.443Z",
+      "value": {
+        "states": [
+          "alindi"
+        ]
+      },
+      "stamps": {
+        "states": "2026-10-21T21:57:17.443Z"
       }
     }
   },
