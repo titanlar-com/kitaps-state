@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-21T21:39:19.886Z",
+  "updatedAt": "2026-10-21T21:40:46.274Z",
   "books": {
     "innovators": {
       "updatedAt": "2026-10-21T21:23:48.438Z",
@@ -15,14 +15,12 @@
       }
     },
     "littlehistoryoftheworld": {
-      "updatedAt": "2026-10-21T21:35:47.824Z",
+      "updatedAt": "2026-10-21T21:39:59.911Z",
       "value": {
-        "states": [
-          "alindi"
-        ]
+        "states": []
       },
       "stamps": {
-        "states": "2026-10-21T21:35:47.824Z"
+        "states": "2026-10-21T21:39:59.911Z"
       }
     },
     "goal": {
@@ -46,6 +44,17 @@
       },
       "stamps": {
         "states": "2026-10-21T21:37:19.870Z"
+      }
+    },
+    "howtoreadabook": {
+      "updatedAt": "2026-10-21T21:40:41.783Z",
+      "value": {
+        "states": [
+          "alindi"
+        ]
+      },
+      "stamps": {
+        "states": "2026-10-21T21:40:41.783Z"
       }
     }
   },
