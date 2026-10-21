@@ -1,17 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-21T21:40:46.274Z",
+  "updatedAt": "2026-10-21T21:43:23.365Z",
   "books": {
     "innovators": {
-      "updatedAt": "2026-10-21T21:23:48.438Z",
+      "updatedAt": "2026-10-21T21:42:57.661Z",
       "value": {
         "states": [
-          "onemli",
           "alinacak"
         ]
       },
       "stamps": {
-        "states": "2026-10-21T21:23:48.438Z"
+        "states": "2026-10-21T21:42:57.661Z"
       }
     },
     "littlehistoryoftheworld": {
@@ -35,15 +34,14 @@
       }
     },
     "zerotoone": {
-      "updatedAt": "2026-10-21T21:37:19.870Z",
+      "updatedAt": "2026-10-21T21:42:51.618Z",
       "value": {
         "states": [
-          "alindi",
-          "onemli"
+          "alindi"
         ]
       },
       "stamps": {
-        "states": "2026-10-21T21:37:19.870Z"
+        "states": "2026-10-21T21:42:51.618Z"
       }
     },
     "howtoreadabook": {
