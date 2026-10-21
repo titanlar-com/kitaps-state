@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-21T21:31:46.313Z",
+  "updatedAt": "2026-10-21T21:36:45.950Z",
   "books": {
     "innovators": {
       "updatedAt": "2026-10-21T21:23:48.438Z",
@@ -12,6 +12,39 @@
       },
       "stamps": {
         "states": "2026-10-21T21:23:48.438Z"
+      }
+    },
+    "littlehistoryoftheworld": {
+      "updatedAt": "2026-10-21T21:35:47.824Z",
+      "value": {
+        "states": [
+          "alindi"
+        ]
+      },
+      "stamps": {
+        "states": "2026-10-21T21:35:47.824Z"
+      }
+    },
+    "goal": {
+      "updatedAt": "2026-10-21T21:35:58.537Z",
+      "value": {
+        "states": [
+          "alindi"
+        ]
+      },
+      "stamps": {
+        "states": "2026-10-21T21:35:58.537Z"
+      }
+    },
+    "zerotoone": {
+      "updatedAt": "2026-10-21T21:36:11.399Z",
+      "value": {
+        "states": [
+          "alindi"
+        ]
+      },
+      "stamps": {
+        "states": "2026-10-21T21:36:11.399Z"
       }
     }
   },
