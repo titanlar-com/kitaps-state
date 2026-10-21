@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-21T21:36:45.950Z",
+  "updatedAt": "2026-10-21T21:39:19.886Z",
   "books": {
     "innovators": {
       "updatedAt": "2026-10-21T21:23:48.438Z",
@@ -37,14 +37,15 @@
       }
     },
     "zerotoone": {
-      "updatedAt": "2026-10-21T21:36:11.399Z",
+      "updatedAt": "2026-10-21T21:37:19.870Z",
       "value": {
         "states": [
-          "alindi"
+          "alindi",
+          "onemli"
         ]
       },
       "stamps": {
-        "states": "2026-10-21T21:36:11.399Z"
+        "states": "2026-10-21T21:37:19.870Z"
       }
     }
   },
